@@ -191,4 +191,4 @@ def check():
 
 
 check()                     
-finestra.mainloop()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+finestra.mainloop()
