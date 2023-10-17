@@ -44,7 +44,7 @@ parola.place(relx=0.2, rely=0.5, anchor='center')
 
 # initialization lives 
 lives=10                                                                                                            
-vite=tk.Label(finestra,text="{lives} lives left", font=("calibri", 30),bg='#1E1E1E',fg='white')                 
+vite=tk.Label(finestra,text=f"{lives} lives left", font=("calibri", 30),bg='#1E1E1E',fg='white')                 
 vite.pack()                                                                                                         
 vite.place(relx=0.3)                                                                                                
 
