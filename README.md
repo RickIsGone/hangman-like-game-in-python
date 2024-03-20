@@ -1,1 +1,1 @@
-install random_worlds, pygame and pillow to run 
+an hangman game made with python using tkinter and randomwords
